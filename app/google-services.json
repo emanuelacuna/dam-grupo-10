@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "882844500820",
+    "firebase_url": "https://dam-grupo10-b4cb7-default-rtdb.firebaseio.com",
+    "project_id": "dam-grupo10-b4cb7",
+    "storage_bucket": "dam-grupo10-b4cb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882844500820:android:6725e9fdfa0459bb957ec1",
+        "android_client_info": {
+          "package_name": "edu.utec.uy.semana3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUD1FgDpR7M_CK1V8BvLl07y3_8gaWxdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
